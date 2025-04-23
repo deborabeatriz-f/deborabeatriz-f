@@ -1,4 +1,19 @@
-### Débora Beatriz! 👩🏻‍💻 
+### Olá, meu nome é Débora Beatriz. ✌️
+
+
+👩‍💻 Sou uma desenvolvedora web com background na área educacional.
+
+👩‍🎓 Formada em música, cursando a segunda faculdade em Análise e Desenvolvimento de Sistemas.
+
+❣️ Apaixonada por arte, música e tecnologia, basicamente tudo o que envolva criatividade e gerar experiências para as pessoas.
+
+🧠 Com uma sólida bagagem como professora de música e idiomas, hoje mergulho no mundo do desenvolvimento com foco em acessibilidade, usabilidade e design responsivo.
+
+👧 Mãe da Eva Morena com 3 anos.
+
+🐕 Tenho um cachorro boxer de 12 anos.
+
+🔖 Utilizo este GitHub para meus projetos pessoais e estudos.
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deborabeatrizfigueiro/)
