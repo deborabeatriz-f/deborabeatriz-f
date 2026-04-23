@@ -1,17 +1,15 @@
 ### Olá, meu nome é Débora Beatriz. ✌️
 
 
-👩‍💻 Sou uma desenvolvedora web com background na área educacional.
+👩‍💻 Profissional de desenvolvimento web e análise de qualidade, com background na área educacional.
 
-👩‍🎓 Formada em música, cursando a segunda faculdade em Análise e Desenvolvimento de Sistemas.
+🔍 Tenho interesse em Customer Success, QA, Suporte Técnico e áreas que conectem tecnologia e pessoas.
+
+🎓 Formada em Análise e Desenvolvimento de Sistemas e também em Licenciatura em Música.
 
 ❣️ Apaixonada por arte, música e tecnologia, basicamente tudo o que envolva criatividade e gerar experiências para as pessoas.
 
-🧠 Com uma sólida bagagem como professora de música e idiomas, hoje mergulho no mundo do desenvolvimento com foco em acessibilidade, usabilidade e design responsivo.
-
-👧 Mãe da Eva Morena com 3 anos.
-
-🐕 Tenho um cachorro boxer de 12 anos.
+🧠 Acredito que as melhores experiências digitais nascem da combinação entre pensamento técnico e compreensão humana.
 
 🔖 Utilizo este GitHub para meus projetos pessoais e estudos.
 
