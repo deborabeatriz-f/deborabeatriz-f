@@ -1,17 +1,17 @@
-### Olá, meu nome é Débora Beatriz. ✌️
+### Hey there, my name is Débora Beatriz ✌️
 
 
-👩‍💻 Profissional de desenvolvimento web e análise de qualidade, com background na área educacional.
+👩‍💻 Customer Success professional with a background in Web Development and QA.
 
-🔍 Tenho interesse em Customer Success, QA, Suporte Técnico e áreas que conectem tecnologia e pessoas.
+🔍 Interested in roles that connect technology and people: Customer Success, Technical Support and QA.
 
-🎓 Formada em Análise e Desenvolvimento de Sistemas e também em Licenciatura em Música.
+🎓 Graduated in Systems Analysis and Development, also holding a degree in Music Education.
 
-❣️ Apaixonada por arte, música e tecnologia, basicamente tudo o que envolva criatividade e gerar experiências para as pessoas.
+❣️ Passionate about art, music and technology, basically everything that involves creativity and generating experiences for people.
 
-🧠 Acredito que as melhores experiências digitais nascem da combinação entre pensamento técnico e compreensão humana.
+🧠 I believe the best digital experiences come from the combination of technical thinking and human understanding.
 
-🔖 Utilizo este GitHub para meus projetos pessoais e estudos.
+🔖  I use this GitHub for personal projects and studies.
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deborabeatrizfigueiro/)
